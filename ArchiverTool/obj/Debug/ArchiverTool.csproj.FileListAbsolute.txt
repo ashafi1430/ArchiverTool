@@ -1,0 +1,7 @@
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\bin\Debug\ArchiverTool.exe.config
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\bin\Debug\ArchiverTool.exe
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\bin\Debug\ArchiverTool.pdb
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\obj\Debug\ArchiverTool.csprojResolveAssemblyReference.cache
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\obj\Debug\ArchiverTool.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\obj\Debug\ArchiverTool.exe
+C:\Users\Abbas\Documents\Training\C#\Snippets\ArchiverTool\ArchiverTool\obj\Debug\ArchiverTool.pdb
