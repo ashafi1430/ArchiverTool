@@ -3,7 +3,7 @@ using System.IO;
 
 namespace ArchiverTool
 {
-    class FileProcessor
+    public class FileProcessor
     {
         /// <summary>App exit code : Source directory does not exist.</summary>
         const int ExitCode_SourceDirEmpty = -1;
