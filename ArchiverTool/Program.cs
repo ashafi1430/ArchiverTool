@@ -8,7 +8,7 @@ namespace ArchiverTool
         const int ExitCode_OK = 0;
 
         /// <summary>
-        /// Main
+        /// Main Program
         /// </summary>
         /// <param name="args">Command line arguments</param>
         static void Main(string[] args)
